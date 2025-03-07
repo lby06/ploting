@@ -1,0 +1,17 @@
+City,Device,Capacity
+Wuhan,CHP (MW),0.0
+Wuhan,Electric_Boiler (MW),77.39166787104925
+Wuhan,CERG (MW),215.00648178882457
+Wuhan,WARP (MW),0.0
+Wuhan,Gas_Boiler (MW),1430.7946779501556
+Wuhan,Ground_Heat_Pump_heat (MW),4.260451650107354
+Wuhan,Ground_Heat_Pump_cold (MW),4.260451650107354
+Wuhan,Elec_Storage (MW),0.0
+Wuhan,Heat_Storage (MW),12.454795596196888
+Wuhan,Cold_Storage (MW),755.2293965328361
+Wuhan,Seasonal_Heat_Storage (MWh),922.6831138226194
+Wuhan,PV (km^2),3.8
+Wuhan,solar_thermal_collector (km^2),0.0
+Wuhan,PV_Annual_maxium_Avg_Power (MW),61.547181238283656
+Wuhan,PV_Annual_Avg_Power (MW),59.98136180719101
+Wuhan,solar_thermal_collector_Annual_Avg_Power (MW),0.0

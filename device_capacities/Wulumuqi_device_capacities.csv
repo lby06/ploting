@@ -1,0 +1,17 @@
+City,Device,Capacity
+Wulumuqi,CHP (MW),0.02093432634156163
+Wulumuqi,Electric_Boiler (MW),111.42499911512165
+Wulumuqi,CERG (MW),161.36576930553213
+Wulumuqi,WARP (MW),0.0
+Wulumuqi,Gas_Boiler (MW),2678.955195620521
+Wulumuqi,Ground_Heat_Pump_heat (MW),51.457663168434415
+Wulumuqi,Ground_Heat_Pump_cold (MW),51.457663168434415
+Wulumuqi,Elec_Storage (MW),50.01858184942311
+Wulumuqi,Heat_Storage (MW),22.562568092361392
+Wulumuqi,Cold_Storage (MW),314.0220933576921
+Wulumuqi,Seasonal_Heat_Storage (MWh),5882.177012509658
+Wulumuqi,PV (km^2),3.8
+Wulumuqi,solar_thermal_collector (km^2),0.0
+Wulumuqi,PV_Annual_maxium_Avg_Power (MW),69.72373951438128
+Wulumuqi,PV_Annual_Avg_Power (MW),67.9773243342294
+Wulumuqi,solar_thermal_collector_Annual_Avg_Power (MW),0.0

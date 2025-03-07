@@ -1,0 +1,17 @@
+City,Device,Capacity
+Beijing,CHP (MW),0.0
+Beijing,Electric_Boiler (MW),106.36020189386474
+Beijing,CERG (MW),195.05468598118452
+Beijing,WARP (MW),0.0
+Beijing,Gas_Boiler (MW),1701.8854586585803
+Beijing,Ground_Heat_Pump_heat (MW),70.60825959639699
+Beijing,Ground_Heat_Pump_cold (MW),70.60825959639699
+Beijing,Elec_Storage (MW),0.0
+Beijing,Heat_Storage (MW),15.057996603944062
+Beijing,Cold_Storage (MW),476.4674679219427
+Beijing,Seasonal_Heat_Storage (MWh),2811.769681642326
+Beijing,PV (km^2),3.525806489296716
+Beijing,solar_thermal_collector (km^2),0.0
+Beijing,PV_Annual_maxium_Avg_Power (MW),65.57509346193574
+Beijing,PV_Annual_Avg_Power (MW),63.15207801380315
+Beijing,solar_thermal_collector_Annual_Avg_Power (MW),0.0

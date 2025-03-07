@@ -1,0 +1,30 @@
+# #获取初始情况各个值
+# #长期储能在不同城市的应用容量（100/700碳价）
+# def get_seasonal_heat_storage_capacity(model):
+#     for device_id, device in enumerate(model.storage_device_list):
+#         if device.label == "Seasonal_Heat_Storage":
+#             return model.storage_invest[device_id]()
+
+# city_map = {
+#         1: "Beijing",
+#         2: "Guangzhou",
+#         3: "Wuhan",
+#         4: "Wulumuqi"
+#     }
+# print(f"{city_map[1]} with carbon price 100:")
+# print(get_seasonal_heat_storage_capacity(optimal_plan(1, 100, 3.8, 3, 0, 0)))
+# print(f"{city_map[2]} with carbon price 100:")
+# print(get_seasonal_heat_storage_capacity(optimal_plan(2, 100, 3.8, 3, 0, 0)))
+# print(f"{city_map[3]} with carbon price 100:")
+# print(get_seasonal_heat_storage_capacity(optimal_plan(3, 100, 3.8, 3, 0, 0)))
+# print(f"{city_map[4]} with carbon price 100:")
+# print(get_seasonal_heat_storage_capacity(optimal_plan(4, 100, 3.8, 3, 0, 0)))
+# print(f"{city_map[1]} with carbon price 700:")
+# print(get_seasonal_heat_storage_capacity(optimal_plan(1, 700, 3.8, 3, 0, 0)))
+# print(f"{city_map[2]} with carbon price 700:")
+# print(get_seasonal_heat_storage_capacity(optimal_plan(2, 700, 3.8, 3, 0, 0)))
+# print(f"{city_map[3]} with carbon price 700:")
+# print(get_seasonal_heat_storage_capacity(optimal_plan(3, 700, 3.8, 3, 0, 0)))
+# print(f'{city_map[4]} with carbon price 700:')
+# print(get_seasonal_heat_storage_capacity(optimal_plan(4, 700, 3.8, 3, 0, 0))
+# )

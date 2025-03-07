@@ -1,0 +1,17 @@
+City,Device,Capacity
+Guangzhou,CHP (MW),0.0
+Guangzhou,Electric_Boiler (MW),39.96485759182401
+Guangzhou,CERG (MW),220.01597478122557
+Guangzhou,WARP (MW),0.0
+Guangzhou,Gas_Boiler (MW),350.0131121356723
+Guangzhou,Ground_Heat_Pump_heat (MW),4.457458314447614
+Guangzhou,Ground_Heat_Pump_cold (MW),4.457458314447614
+Guangzhou,Elec_Storage (MW),0.0
+Guangzhou,Heat_Storage (MW),10.119547754151151
+Guangzhou,Cold_Storage (MW),1097.1800385175925
+Guangzhou,Seasonal_Heat_Storage (MWh),416.8704113260575
+Guangzhou,PV (km^2),3.8
+Guangzhou,solar_thermal_collector (km^2),0.0
+Guangzhou,PV_Annual_maxium_Avg_Power (MW),63.41610386054376
+Guangzhou,PV_Annual_Avg_Power (MW),62.88190615035948
+Guangzhou,solar_thermal_collector_Annual_Avg_Power (MW),0.0
